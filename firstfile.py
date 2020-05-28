@@ -1,28 +1,5 @@
 
-# print("hello")
-# var= int(input("enter any value here:"))
- 
-# if(var>20):
-#      print("value is greater than 20")
-# elif (var==20):
-#          print("value is equal to 20")
-# else:
-#      print("value is less than 20")
 
-# Loop:/
-
-# for i in range(0,100):
-#     print(i+1)
-
-# li = [1,2,"hello"]
-
-# for item in li:
-#     print(item)
-
-# i=1
-# while(i<100):
-#     print(i)
-#     i=i+1; 
 # ////////////////////////basic calculation calculatior//////////////////////////////////
 def calculator():
 
